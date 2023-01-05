@@ -52,8 +52,7 @@ class App extends React.Component {
         <div className="dx-fieldset">
           <div className="dx-field">
             <div className="dx-field-label" style={{ textAlign: "right" }}>
-              Labels:
-            </div>
+            Eigenschaftsnamen: </div>
             <div className="dx-field-value">
               <RadioGroup
                 items={this.labelTypes}
