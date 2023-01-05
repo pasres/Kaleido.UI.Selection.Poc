@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "@devextreme/runtime": "3.0.11",
+    "devexpress-diagram": "2.1.65",
+    "devexpress-gantt": "4.1.37",
+    "devextreme": "22.2.3",
+    "devextreme-quill": "1.5.18",
+    "devextreme-react": "22.2.3",
+    "es6-object-assign": "1.1.0",
+    "inferno": "7.4.11",
+    "inferno-clone-vnode": "7.4.11",
+    "inferno-compat": "7.4.11",
+    "inferno-create-class": "7.4.11",
+    "inferno-create-element": "7.4.11",
+    "inferno-dom": "latest",
+    "inferno-extras": "7.4.11",
+    "inferno-hydrate": "7.4.11",
+    "jszip": "3.7.1",
+    "luxon": "1.28.0",
+    "prettier": "2.7.1",
+    "prop-types": "15.8.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rrule": "2.6.4"
+  },
+  "description": "This example demonstrates the DataGrid’s built-in filtering and searching capabilities. The filter row, located under the column headers, allows a user to type any value and select filter operations. With the header filter, which is called by clicking the filter icon in any column header, a user can choose from a set of predefined values. The search panel at the top of the DataGrid allows searching for values in all columns at once.\n",
+  "name": "kaleido-selection-ui-poc-2",
+  "keywords": [],
+  "version": "0.0.59",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
